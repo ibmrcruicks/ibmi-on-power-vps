@@ -2,7 +2,7 @@
 setting up an IBMi instance on Power Virtual Server instance in IBM Cloud
 
 NB: you will need to have a Pay-As-You-Go or Subscription account on IBM Cloud
-to be able to set up an IBMi (or AIX) viretual server.
+to be able to set up an IBMi (or AIX) virtual server.
 
 The first in the journey requires a "Power Systems Virtual Server" service instance,
 which you wiill find through the `Catalog` menu.
@@ -35,7 +35,9 @@ note that the emulator supports Function Key emulation with a virtual keypad at 
 actually, this keypad is initially hidden below the bottom of the window -- you will need to stretch the window to 
 make the keypad visible. This is necessary for any function keys higher than 12, whether your keyboard has
 physical function keys or not.
-![display keypad](res/img/psvs-keypad.png)
+![display no_keypad](res/img/psvs-emulator.png)  
+![display 1_keypad](res/img/psvs-emul-keypad1.png)  
+![display 2_keypad](res/img/psvs-emul-keypad2.png)  
 
 ## first login
 
