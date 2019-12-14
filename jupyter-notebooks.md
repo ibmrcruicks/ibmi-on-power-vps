@@ -30,9 +30,9 @@ jupyter notebook
  <br>[I 23:33:09.176 NotebookApp] Serving notebooks from local directory: /
  <br>[I 23:33:09.176 NotebookApp] The Jupyter Notebook is running at:
  <br>[I 23:33:09.176 NotebookApp] http://localhost:8888/?token=1960e9c008a3829fd0ed57xxxxxxxxxacecf90d35cf2dc8
-```
+
 
 To access from a client workstation/laptop, add a port-forwarding definition to allow access to the IBM i server - 
-e.g. `-L 8888:localhost:8888`
+e.g. `-L 8888:localhost:8888`, and then copy/paste the URL into your browser.
 
 ![psvs-jupyter](res/img/psvs-jupyter.png)
